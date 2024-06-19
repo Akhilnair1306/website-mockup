@@ -1,7 +1,6 @@
 import React from 'react';
 import Imageone from '../assets/image1.jpg';
 import Section1 from './Section1';
-import IconSec from './IconSec';
 
 export default function Main() {
   return (

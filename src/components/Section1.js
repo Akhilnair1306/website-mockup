@@ -8,6 +8,7 @@ import IconSec from './IconSec';
 import Insights from './Insights';
 import Testimonials from './Testimonials';
 import Footer from './Footer';
+import Insights2 from './Insights2';
 
 export default function Section1() {
   return (
@@ -38,6 +39,7 @@ export default function Section1() {
       </div>
       <Insights />
       <Testimonials />
+      <Insights2 />
       <Footer/>
     </div>
   );
